@@ -1,2 +1,2 @@
 # ReachOut
-Built as part of the 24hr long HackForTomorrow Hackathon @ MEC
+A Decentralised crypto-currency to implement transparent financial transfer from donor to those in need
